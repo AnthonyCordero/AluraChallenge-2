@@ -1,0 +1,8 @@
+.menu {
+    width: 100%;
+    display: flex;
+    margin: 0 0 2rem 0;
+    padding: 1rem 1rem;
+    box-shadow: 2px 2px 15px black;
+    flex-direction: column;
+}
