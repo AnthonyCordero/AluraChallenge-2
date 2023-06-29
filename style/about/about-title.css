@@ -1,0 +1,5 @@
+.about__title {
+    font-family: var(--tipografia-primaria);
+    font-weight: 700;
+    font-size: 2rem;
+}

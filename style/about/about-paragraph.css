@@ -1,0 +1,5 @@
+.about__paragraph {
+    font-family: var(--tipografia-primaria);
+    font-weight: 400;
+    font-size: 1.1rem;
+}
