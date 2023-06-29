@@ -1,6 +1,7 @@
 :root {
     --cor-de-fundo: #F5F5F5;
     --cor-de-link: #000;
+    --tipografia-primaria: 'Raleway', sans-serif;
 }
 
 body {

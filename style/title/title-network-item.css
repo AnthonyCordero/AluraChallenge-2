@@ -1,0 +1,8 @@
+.title__network__item {
+    display: flex;
+    justify-content: baseline;
+    font-family: var(--tipografia-primaria);
+    font-weight: 600;
+    font-size: 1.25rem;
+    width: 5%;
+}
