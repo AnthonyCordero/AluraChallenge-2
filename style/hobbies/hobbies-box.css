@@ -1,0 +1,7 @@
+.skills__box {
+    display: flex;
+    width: 18%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
