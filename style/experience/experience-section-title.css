@@ -1,0 +1,6 @@
+.experience__section__title {
+    font-family: var(--tipografia-principal);
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
