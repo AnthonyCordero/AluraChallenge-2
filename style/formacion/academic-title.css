@@ -1,0 +1,7 @@
+.academic__title {
+    font-weight: 700;
+    font-family: var(--tipografia-primaria);
+    font-size: 2rem;
+    text-align: center;
+    width: 70%;
+}
