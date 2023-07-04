@@ -1,0 +1,5 @@
+.experience__text {
+    font-family: var(--tipografia-pricipal);
+    font-weight: 600;
+    padding-left: 3rem;
+}
