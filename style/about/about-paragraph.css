@@ -10,3 +10,10 @@
     }
 
 }
+
+@media screen and (min-width: 1440px) {
+    .about__paragraph {
+        font-size: 1.1rem;
+    }
+
+}
