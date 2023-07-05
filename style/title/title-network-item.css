@@ -1,8 +1,20 @@
 .title__network__item {
     display: flex;
-    justify-content: baseline;
     font-family: var(--tipografia-primaria);
     font-weight: 600;
     font-size: 1.25rem;
-    width: 5%;
+    width: 30%;
+}
+
+@media screen and (min-width: 768px) {
+    .title__network__item {
+        font-size: 1rem;
+        justify-content: space-between;
+        width: 30%;
+    }
+
+    .title__network__item img {
+        scale: 0.8;
+    }
+
 }
