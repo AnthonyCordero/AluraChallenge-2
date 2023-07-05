@@ -2,3 +2,10 @@
     font-family: var(--tipografia-primaria);
     font-weight: 700;
 }
+
+@media screen and (min-width: 768px) {
+    .title__bio {
+        font-size: 1.1rem;
+    }
+
+}
