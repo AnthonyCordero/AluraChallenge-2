@@ -1,3 +1,11 @@
 .menu__contacto {
     font-family: var(--tipografia-primaria);
+    font-size: 0.8rem;
+}
+
+@media screen and (min-width: 768px) {
+    .menu__contacto {
+        font-size: 1.5rem;
+    }
+
 }
