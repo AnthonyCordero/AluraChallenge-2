@@ -9,3 +9,10 @@
     background-color: transparent;
     transition: .3s ease all;
 }
+
+@media screen and (min-width: 768px) {
+    .experience__btn--repo {
+        font-size: 1rem;
+    }
+
+}
