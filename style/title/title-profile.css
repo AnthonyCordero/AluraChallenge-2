@@ -11,3 +11,11 @@
     }
 
 }
+
+@media screen and (min-width: 1440px) {
+    .title__profile {
+        scale: 0.8;
+        margin-right: 5rem;
+    }
+
+}
