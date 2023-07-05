@@ -13,3 +13,11 @@
     }
 
 }
+
+@media screen and (min-width: 1440px) {
+    .academic__title {
+        font-size: 1.5rem;
+        margin-top: 2rem;
+    }
+
+}

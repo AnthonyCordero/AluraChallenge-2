@@ -12,3 +12,10 @@
     }
 
 }
+
+@media screen and (min-width: 1140px) {
+    .experience__section__title {
+        font-size: 1.5rem;
+    }
+
+}
