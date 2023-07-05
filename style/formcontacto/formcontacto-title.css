@@ -1,6 +1,5 @@
-.experience__title {
-    font-size: 1.5rem;
+.formcontacto__title {
     font-family: var(--tipografia-principal);
+    font-size: 1.5rem;
     font-weight: 700;
-    margin-left: 3rem;
 }

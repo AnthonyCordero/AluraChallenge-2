@@ -1,0 +1,5 @@
+.formcontacto__subtext {
+    font-family: var(--tipografia-principal);
+    font-size: 1.1rem;
+    font-weight: 600;
+}

@@ -1,5 +1,6 @@
 .experience__btn--repo {
     width: 100%;
+    height: 4rem;
     color: var(--cor-de-boton);
     font-size: 1.2rem;
     font-weight: 600;
