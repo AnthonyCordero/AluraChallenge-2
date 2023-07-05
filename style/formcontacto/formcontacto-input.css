@@ -1,5 +1,6 @@
 .formcontacto__input {
     height: 2.5rem;
+    width: 100%;
     text-align: initial;
-    margin-top: 1.5rem;
+    margin: 1 auto;
 }

@@ -3,3 +3,11 @@
     font-size: 1.5rem;
     font-weight: 700;
 }
+
+@media screen and (min-width: 768px) {
+    .formcontacto__title {
+        font-size: 1.1rem;
+
+    }
+
+}

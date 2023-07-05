@@ -1,5 +1,6 @@
 .formcontacto__textarea {
     height: 8rem;
+    width: 100%;
     text-align: initial;
     margin-top: 1.5rem;
 }
