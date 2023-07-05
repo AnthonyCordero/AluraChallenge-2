@@ -1,0 +1,11 @@
+@media (max-width: 1199px) {
+    .formcontacto__img {
+        display: none;
+    }
+}
+
+@media (min-width: 1200px) {
+    .title__profile {
+        display: flex;
+    }
+}

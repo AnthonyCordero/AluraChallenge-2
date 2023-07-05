@@ -1,6 +1,5 @@
-.experience__info-container {
+.formcontacto__text {
     width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
 }
